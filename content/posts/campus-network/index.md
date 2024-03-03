@@ -33,7 +33,7 @@ categories: ["中文"]
 >
 > 来自 sunbk201[^1]
 
-[^1] https://blog.sunbk201.site/posts/crack-campus-network/
+[^1]: https://blog.sunbk201.site/posts/crack-campus-network/
 
 # 校园网优化方案
 ## 对抗终端限制
@@ -59,9 +59,9 @@ categories: ["中文"]
 ## 利用已经开放端口，外部架设免流代理，从而无需认证即可访问外网
 经测试，`哆点认证`未认证也不会封锁53端口。
 
-[^2] https://www.mi.com/rm2100  
-[^3] [自编译Redmi AC2100固件，集成UA2F等，可用于校园网防检测等功能](https://www.right.com.cn/forum/thread-8315729-1-1.html)  
-[^4] [校园网路由器多设备伪装指北](https://learningman.top/archives/304)  
-[^5] [校园网防检测: UA3F - 新一代 UA 修改方法](https://blog.sunbk201.site/posts/ua3f/)  
-[^6] 固件做了正版验证，官方公布的固件刷机后无法使用。https://www.guangsuwifi.com/  
-[^7] [luci-app-nettask](https://github.com/lucikap/luci-app-nettask)  
+[^2]: https://www.mi.com/rm2100  
+[^3]: [自编译Redmi AC2100固件，集成UA2F等，可用于校园网防检测等功能](https://www.right.com.cn/forum/thread-8315729-1-1.html)  
+[^4]: [校园网路由器多设备伪装指北](https://learningman.top/archives/304)  
+[^5]: [校园网防检测: UA3F - 新一代 UA 修改方法](https://blog.sunbk201.site/posts/ua3f/)  
+[^6]: GSWIFI 固件做了正版验证，官方公布的固件刷机后无法使用。(https://www.guangsuwifi.com/)  
+[^7]: [luci-app-nettask](https://github.com/lucikap/luci-app-nettask)  
