@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://racel.dev/categories/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/tags/css/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/categories/example/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/tags/html/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/tags/markdown/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/posts/markdown-syntax-guide/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/posts/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/tags/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://racel.dev/tags/themes/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url>
+</urlset>
