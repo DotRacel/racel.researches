@@ -9,10 +9,24 @@
     <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://racel.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>example</title>
-      <link>https://racel.dev/categories/example/</link>
+      <title>English</title>
+      <link>https://racel.dev/categories/english/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://racel.dev/categories/example/</guid>
+      <guid>https://racel.dev/categories/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>templates</title>
+      <link>https://racel.dev/categories/templates/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://racel.dev/categories/templates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中文</title>
+      <link>https://racel.dev/categories/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://racel.dev/categories/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
   </channel>

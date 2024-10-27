@@ -15,5 +15,19 @@
       <guid>https://racel.dev/posts/markdown-syntax-guide/</guid>
       <description>Markdown 基础语法模板和 HTML 格式模板</description>
     </item>
+    <item>
+      <title>哈尔滨商业大学 校园网络优化深入浅出</title>
+      <link>https://racel.dev/posts/hrbcu-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://racel.dev/posts/hrbcu-network/</guid>
+      <description>记录我在不断折腾的过程中，所遇到的各种问题和得到的解决方案。</description>
+    </item>
+    <item>
+      <title>对于所在学校的校园网络了解和研究</title>
+      <link>https://racel.dev/posts/campus-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://racel.dev/posts/campus-network/</guid>
+      <description>在对寝室网络不断的折腾中所了解到的一些事情。</description>
+    </item>
   </channel>
 </rss>
