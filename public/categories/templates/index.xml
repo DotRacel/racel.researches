@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>templates on racel.researches</title>
+    <link>https://racel.dev/categories/templates/</link>
+    <description>Recent content in templates on racel.researches</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://racel.dev/categories/templates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 语法模板</title>
+      <link>https://racel.dev/posts/markdown-syntax-guide/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://racel.dev/posts/markdown-syntax-guide/</guid>
+      <description>Markdown 基础语法模板和 HTML 格式模板</description>
+    </item>
+  </channel>
+</rss>
